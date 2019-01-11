@@ -1,0 +1,9 @@
+.compText{
+	font-weight: bold;
+}
+.beBold{
+	font-weight: bold;
+}
+#compFilter, #monFilter, #statFilter{
+	border: 0.5px solid;
+}
